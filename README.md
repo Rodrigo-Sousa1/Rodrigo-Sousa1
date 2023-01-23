@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, Sou Rodrigo Sousa
+- 🔭 Atualmente trabalho com  HTML CSS
+- 🌱 Estou aprendendo Java script
 
-<!--
-**Rodrigo-Sousa1/Rodrigo-Sousa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-sousa1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-sousa1&langs_count=8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://www.linkedin.com/in/rodrigo-sousa-b531191bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
