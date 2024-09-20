@@ -1,6 +1,7 @@
 ### Olá, Sou Rodrigo Sousa
 - 🔭 Desenvolverdor FronEnd Jr Html/ Css / JavaScript / React
-- 🌱 No momento estou conhecendo o React e se aprofundando em suas tecnologias
+- 🌱 futuro desenvolvedor fullstack
+  
 
 ##
 
